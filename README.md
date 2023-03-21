@@ -12,8 +12,6 @@
 <i class="devicon-react-original colored"></i>
 <p align="center">
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" alt="python" height="35" width="35" /></a>
-<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/django-10-458266.png" alt="ashikkl" height="35" width="35" /></a>
-<a href="#"> <img src="https://www.clipartkey.com/mpngs/m/145-1450071_flask-python-logo-transparent.png" alt="ashikkl" height="35" width="35" /></a>
 <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" alt="ashikkl" height="35" width="35" /> </a>
 <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" alt="ashikkl" height="35" width="35"  /> </a>
 <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" alt="ashikkl" height="35" width="35" /> </a>
@@ -23,7 +21,6 @@
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-5-1175140.png" alt="ashikkl" height="35" width="35" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/c-58-1175247.png" alt="ashikkl" height="35" width="35" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png" alt="ashikkl" height="35" width="35" /></a>
-<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/c-36-555159.png" alt="ashikkl" height="35" width="35" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/google-cloud-2038785-1721675.png" alt="ashikkl" height="35" width="35" /></a>
 </p>
 
