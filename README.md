@@ -14,7 +14,19 @@
   srcset="https://github-readme-stats.vercel.app/api?username=ashikkl&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=ashikkl&show_icons=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashikkl&layout=compact&theme=dracula" />
+</picture> </p>
+
+<p align="center"> <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikkl&theme=radical&layout=compact"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikkl&layout=compact"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikkl&theme=dracula&layout=compact" />
 </picture> </p>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
