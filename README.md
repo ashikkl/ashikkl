@@ -1,9 +1,11 @@
 <h1 align="center"> Hi There <img src="https://github.com/ashikkl/ashikkl/blob/4fbf4fe4e7459bd6860d5afdca250bb41d1e3af3/Hi.gif" width="29px">, I'm Ashik K L</h1>
-<h3 align="center">A passionate Fullstack developer who loves to build products!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikkl&color=333333&style=for-the-badge" alt="ashikkl" /> </p>
+<h3 align="center">Fullstack developer | ReactJS x NextJS | Machine Learning Novice</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ashikkl&color=333333&style=for-the-badge" alt="ashikkl" /> </p>
 
-- 👀 I’m interested in web development, machine learning, ethical hacking and playing guitar.
-- 🌱 I’m currently learning web development with NextJS.
+<p align="center">I am a zealous Fullstack developer with a strong inclination towards product building. <br>
+  I'm currently working on EventBridge ✨, an event registration web-app.<br>Learning NextJS, Typescript and Firebase while working on it.<br>
+  Contributions are highly appreciated 💕. <br>
+  Proud MECian x 2024 ECE 💖</p>
 
 <p align="center"> <picture>
 <source 
@@ -45,12 +47,8 @@
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/google-cloud-2038785-1721675.png" alt="ashikkl" height="35" width="35" /></a>
 </p>
 
-<p align="center">
-<a href="https://linkedin.com/in/ashikkl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="v" height="20" width="20" /></a>
-<a href="https://twitter.com/ashikkl" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="ashikkl" height="20" width="20" /></a>
-  <a href="https://www.instagram.com/itsdefinitelyash/" target="blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="v" height="20" width="20" /></a>
-  <a href="mailto:ashikkl.mec@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="ashikkl" height="20" width="20" /></a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsdefinitelyash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashikkl) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ashikkl) 
 
  <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
  <picture>
