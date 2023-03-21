@@ -5,7 +5,17 @@
 - 👀 I’m interested in web development, machine learning, ethical hacking and playing guitar.
 - 🌱 I’m currently learning web development with NextJS.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashikkl&show_icons=true" alt="ashikkl" /> </p>
+<p align="center"> <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=ashikkl&show_icons=true&theme=radical"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=ashikkl&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=ashikkl&show_icons=true&theme=dracula" />
+</picture> </p>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
 
