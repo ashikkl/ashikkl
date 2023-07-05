@@ -9,7 +9,7 @@
 <p align="center">I am a self-taught Fullstack developer with a strong inclination towards product building. <br>
   I'm currently working on EventBridge ✨, an event registration web-app.<br>Learning NextJS, Typescript and Firebase while working on it.<br>
   Contributions are highly appreciated 💕. <br>
-  Proud MECian x 2024 ECE 💖</p>
+  MECian x 2024 ECE 💖</p>
 </div>
 
 <div align="center"> 
